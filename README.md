@@ -1,7 +1,7 @@
 # 12 Layer High Speed PCB (NOT FINISHED)
 
 Including:
-  1. DDR2
+  1. DDR4
   2. Multiple MCUs
   3. Antenna
   4. EMC
