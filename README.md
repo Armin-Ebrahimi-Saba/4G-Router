@@ -1,4 +1,4 @@
-# 12 Layer High Speed PCB (NOT FINISHED)
+# 4G-Router PCB (NOT FINISHED)
 
 Including:
   1. DDR4
