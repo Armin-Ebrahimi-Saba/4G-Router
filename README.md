@@ -1,4 +1,4 @@
-# 4G-Router PCB (NOT FINISHED)
+# 5G-Router PCB (NOT FINISHED)
 
 Including:
   1. DDR4
